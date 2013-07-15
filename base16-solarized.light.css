@@ -1,0 +1,57 @@
+/*
+
+    Name:       Base16 Solarized Light
+    Author:     Ethan Schoonover (http://ethanschoonover.com/solarized)
+
+    CodeMirror template by Jan T. Sott (https://github.com/idleberg/base16-highlight.js)
+    Original Base16 color scheme by Chris Kempson (https://github.com/chriskempson/base16)
+
+*/
+.solarized-light-comment, pre .comment, pre .title {
+  color: #657b83;
+}
+
+.solarized-light-red, pre .variable, pre .attribute, pre .tag, pre .regexp, pre .ruby .constant, pre .xml .tag .title, pre .xml .pi, pre .xml .doctype, pre .html .doctype, pre .css .id, pre .css .class, pre .css .pseudo {
+  color: #dc322f;
+}
+
+.solarized-light-orange, pre .number, pre .preprocessor, pre .built_in, pre .literal, pre .params, pre .constant {
+  color: #cb4b16;
+}
+
+.solarized-light-yellow, pre .ruby .class .title, pre .css .rules .attribute {
+  color: #b58900;
+}
+
+.solarized-light-green, pre .string, pre .value, pre .inheritance, pre .header, pre .ruby .symbol, pre .xml .cdata {
+  color: #859900;
+}
+
+.solarized-light-aqua, pre .css .hexcolor {
+  color: #2aa198;
+}
+
+.solarized-light-blue, pre .function, pre .python .decorator, pre .python .title, pre .ruby .function .title, pre .ruby .title .keyword, pre .perl .sub, pre .javascript .title, pre .coffeescript .title {
+  color: #268bd2;
+}
+
+.solarized-light-purple, pre .keyword, pre .javascript .function {
+  color: #6c71c4;
+}
+
+pre code {
+  display: block;
+  background: #fdf6e3;
+  color: #586e75;
+  padding: 0.5em;
+}
+
+pre .coffeescript .javascript,
+pre .javascript .xml,
+pre .tex .formula,
+pre .xml .javascript,
+pre .xml .vbscript,
+pre .xml .css,
+pre .xml .cdata {
+  opacity: 0.5;
+}

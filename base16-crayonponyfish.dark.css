@@ -1,47 +1,47 @@
 /*
 
-    Name:       Base16 Crayon Pony Fish Dark
+    Name:       Base16 Zissou: Crayon Pony Fish Dark
     Author:     Jan T. Sott
 
     highlight.js template by Jan T. Sott (https://github.com/idleberg/base16-highlight.js)
     Original Base16 color scheme by Chris Kempson (https://github.com/chriskempson/base16)
 
 */
-.base16-crayonponyfish-dark-comment, pre .comment, pre .title {
+.base16-zissoucrayonponyfish-dark-comment, pre .comment, pre .title {
   color: #655055;
 }
 
-.base16-crayonponyfish-dark-red, pre .variable, pre .attribute, pre .tag, pre .regexp, pre .ruby .constant, pre .xml .tag .title, pre .xml .pi, pre .xml .doctype, pre .html .doctype, pre .css .id, pre .css .class, pre .css .pseudo {
+.base16-zissoucrayonponyfish-dark-red, pre .variable, pre .attribute, pre .tag, pre .regexp, pre .ruby .constant, pre .xml .tag .title, pre .xml .pi, pre .xml .doctype, pre .html .doctype, pre .css .id, pre .css .class, pre .css .pseudo {
   color: #a40e38;
 }
 
-.base16-crayonponyfish-dark-orange, pre .number, pre .preprocessor, pre .built_in, pre .literal, pre .params, pre .constant {
+.base16-zissoucrayonponyfish-dark-orange, pre .number, pre .preprocessor, pre .built_in, pre .literal, pre .params, pre .constant {
   color: #bb4423;
 }
 
-.base16-crayonponyfish-dark-yellow, pre .ruby .class .title, pre .css .rules .attribute {
+.base16-zissoucrayonponyfish-dark-yellow, pre .ruby .class .title, pre .css .rules .attribute {
   color: #d44d26;
 }
 
-.base16-crayonponyfish-dark-green, pre .string, pre .value, pre .inheritance, pre .header, pre .ruby .symbol, pre .xml .cdata {
+.base16-zissoucrayonponyfish-dark-green, pre .string, pre .value, pre .inheritance, pre .header, pre .ruby .symbol, pre .xml .cdata {
   color: #68a312;
 }
 
-.base16-crayonponyfish-dark-aqua, pre .css .hexcolor {
+.base16-zissoucrayonponyfish-dark-aqua, pre .css .hexcolor {
   color: #bea6ad;
 }
 
-.base16-crayonponyfish-dark-blue, pre .function, pre .python .decorator, pre .python .title, pre .ruby .function .title, pre .ruby .title .keyword, pre .perl .sub, pre .javascript .title, pre .coffeescript .title {
+.base16-zissoucrayonponyfish-dark-blue, pre .function, pre .python .decorator, pre .python .title, pre .ruby .function .title, pre .ruby .title .keyword, pre .perl .sub, pre .javascript .title, pre .coffeescript .title {
   color: #eeb679;
 }
 
-.base16-crayonponyfish-dark-purple, pre .keyword, pre .javascript .function {
+.base16-zissoucrayonponyfish-dark-purple, pre .keyword, pre .javascript .function {
   color: #7d4163;
 }
 
 pre code {
   display: block;
-  background: #281413;
+  background: #1c0806;
   color: #7c666d;
   padding: 0.5em;
 }

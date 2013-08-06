@@ -1,7 +1,7 @@
 /*
 
-    Name:       Base16 Paraíso Dark
-    Author:     Jan T. Sott (http://github.com/idleberg)
+    Name:       Base16 Paraiso Dark
+    Author:     Jan T. Sott
 
     highlight.js template by Jan T. Sott (https://github.com/idleberg/base16-highlight.js)
     Original Base16 color scheme by Chris Kempson (https://github.com/chriskempson/base16)
@@ -41,7 +41,7 @@
 
 pre code {
   display: block;
-  background: #41323f;
+  background: #2f1e2e;
   color: #a39e9b;
   padding: 0.5em;
 }

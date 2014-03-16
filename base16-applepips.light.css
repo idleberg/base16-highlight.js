@@ -1,57 +1,97 @@
 /*
 
     Name:       Base16 Apple Pips Light
-    Author:     Jan T. Sott (http://github.com/idleberg)
+    Author:     Jan T. Sott
 
-    highlight.js template by Jan T. Sott (https://github.com/idleberg/base16-highlight.js)
+    highlight.js v8.0 template by Jan T. Sott (https://github.com/idleberg/base16-highlight.js)
     Original Base16 color scheme by Chris Kempson (https://github.com/chriskempson/base16)
 
 */
-.base16-applepips-light-comment, pre .comment, pre .title {
+
+/* Apple Pips Comment */
+.hljs-comment,
+.hljs-title {
   color: #7d8182;
 }
 
-.base16-applepips-light-red, pre .variable, pre .attribute, pre .tag, pre .regexp, pre .ruby .constant, pre .xml .tag .title, pre .xml .pi, pre .xml .doctype, pre .html .doctype, pre .css .id, pre .css .class, pre .css .pseudo {
+/* Apple Pips Red */
+.hljs-variable,
+.hljs-attribute,
+.hljs-tag,
+.hljs-regexp,
+.ruby .hljs-constant,
+.xml .hljs-tag .hljs-title,
+.xml .hljs-pi,
+.xml .hljs-doctype,
+.html .hljs-doctype,
+.css .hljs-id,
+.css .hljs-class,
+.css .hljs-pseudo {
   color: #e92d46;
 }
 
-.base16-applepips-light-orange, pre .number, pre .preprocessor, pre .built_in, pre .literal, pre .params, pre .constant {
+/* Apple Pips Orange */
+.hljs-number,
+.hljs-preprocessor,
+.hljs-built_in,
+.hljs-literal,
+.hljs-params,
+.hljs-constant {
   color: #e16712;
 }
 
-.base16-applepips-light-yellow, pre .ruby .class .title, pre .css .rules .attribute {
+/* Apple Pips Yellow */
+.ruby .hljs-class .hljs-title,
+.css .hljs-rules .hljs-attribute {
   color: #efb554;
 }
 
-.base16-applepips-light-green, pre .string, pre .value, pre .inheritance, pre .header, pre .ruby .symbol, pre .xml .cdata {
+/* Apple Pips Green */
+.hljs-string,
+.hljs-value,
+.hljs-inheritance,
+.hljs-header,
+.ruby .hljs-symbol,
+.xml .hljs-cdata {
   color: #78bb86;
 }
 
-.base16-applepips-light-aqua, pre .css .hexcolor {
+/* Apple Pips Aqua */
+.css .hljs-hexcolor {
   color: #00b5b0;
 }
 
-.base16-applepips-light-blue, pre .function, pre .python .decorator, pre .python .title, pre .ruby .function .title, pre .ruby .title .keyword, pre .perl .sub, pre .javascript .title, pre .coffeescript .title {
+/* Apple Pips Blue */
+.hljs-function,
+.python .hljs-decorator,
+.python .hljs-title,
+.ruby .hljs-function .hljs-title,
+.ruby .hljs-title .hljs-keyword,
+.perl .hljs-sub,
+.javascript .hljs-title,
+.coffeescript .hljs-title {
   color: #00afd6;
 }
 
-.base16-applepips-light-purple, pre .keyword, pre .javascript .function {
+/* Apple Pips Purple */
+.hljs-keyword,
+.javascript .hljs-function {
   color: #ef91a1;
 }
 
-pre code {
+.hljs {
   display: block;
   background: #ffffff;
   color: #696f70;
   padding: 0.5em;
 }
 
-pre .coffeescript .javascript,
-pre .javascript .xml,
-pre .tex .formula,
-pre .xml .javascript,
-pre .xml .vbscript,
-pre .xml .css,
-pre .xml .cdata {
+.coffeescript .javascript,
+.javascript .xml,
+.tex .hljs-formula,
+.xml .javascript,
+.xml .vbscript,
+.xml .css,
+.xml .hljs-cdata {
   opacity: 0.5;
 }

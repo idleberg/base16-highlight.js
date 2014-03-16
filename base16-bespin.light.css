@@ -1,6 +1,6 @@
 /*
 
-    Name:       Base16 Kimbie Light
+    Name:       Base16 Bespin Light
     Author:     Jan T. Sott
 
     highlight.js v8.0 template by Jan T. Sott (https://github.com/idleberg/base16-highlight.js)
@@ -8,13 +8,13 @@
 
 */
 
-/* Kimbie Comment */
+/* Bespin Comment */
 .hljs-comment,
 .hljs-title {
-  color: #a57a4c;
+  color: #666666;
 }
 
-/* Kimbie Red */
+/* Bespin Red */
 .hljs-variable,
 .hljs-attribute,
 .hljs-tag,
@@ -27,41 +27,41 @@
 .css .hljs-id,
 .css .hljs-class,
 .css .hljs-pseudo {
-  color: #dc3958;
+  color: #cf6a4c;
 }
 
-/* Kimbie Orange */
+/* Bespin Orange */
 .hljs-number,
 .hljs-preprocessor,
 .hljs-built_in,
 .hljs-literal,
 .hljs-params,
 .hljs-constant {
-  color: #f79a32;
+  color: #cf7d34;
 }
 
-/* Kimbie Yellow */
+/* Bespin Yellow */
 .ruby .hljs-class .hljs-title,
 .css .hljs-rules .hljs-attribute {
-  color: #f06431;
+  color: #f9ee98;
 }
 
-/* Kimbie Green */
+/* Bespin Green */
 .hljs-string,
 .hljs-value,
 .hljs-inheritance,
 .hljs-header,
 .ruby .hljs-symbol,
 .xml .hljs-cdata {
-  color: #889b4a;
+  color: #54be0d;
 }
 
-/* Kimbie Aqua */
+/* Bespin Aqua */
 .css .hljs-hexcolor {
-  color: #18401e;
+  color: #afc4db;
 }
 
-/* Kimbie Blue */
+/* Bespin Blue */
 .hljs-function,
 .python .hljs-decorator,
 .python .hljs-title,
@@ -70,19 +70,19 @@
 .perl .hljs-sub,
 .javascript .hljs-title,
 .coffeescript .hljs-title {
-  color: #8ab1b0;
+  color: #5ea6ea;
 }
 
-/* Kimbie Purple */
+/* Bespin Purple */
 .hljs-keyword,
 .javascript .hljs-function {
-  color: #98676a;
+  color: #9b859d;
 }
 
 .hljs {
   display: block;
-  background: #fbebd4;
-  color: #84613d;
+  background: #baae9e;
+  color: #5e5d5c;
   padding: 0.5em;
 }
 

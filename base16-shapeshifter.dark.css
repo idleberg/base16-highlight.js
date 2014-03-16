@@ -1,20 +1,20 @@
 /*
 
-    Name:       Base16 Kimbie Light
-    Author:     Jan T. Sott
+    Name:       Base16 shapeshifter Dark
+    Author:     Tyler Benziger (http://tybenz.com)
 
     highlight.js v8.0 template by Jan T. Sott (https://github.com/idleberg/base16-highlight.js)
     Original Base16 color scheme by Chris Kempson (https://github.com/chriskempson/base16)
 
 */
 
-/* Kimbie Comment */
+/* shapeshifter Comment */
 .hljs-comment,
 .hljs-title {
-  color: #a57a4c;
+  color: #555555;
 }
 
-/* Kimbie Red */
+/* shapeshifter Red */
 .hljs-variable,
 .hljs-attribute,
 .hljs-tag,
@@ -27,41 +27,41 @@
 .css .hljs-id,
 .css .hljs-class,
 .css .hljs-pseudo {
-  color: #dc3958;
+  color: #e92f2f;
 }
 
-/* Kimbie Orange */
+/* shapeshifter Orange */
 .hljs-number,
 .hljs-preprocessor,
 .hljs-built_in,
 .hljs-literal,
 .hljs-params,
 .hljs-constant {
-  color: #f79a32;
+  color: #e09448;
 }
 
-/* Kimbie Yellow */
+/* shapeshifter Yellow */
 .ruby .hljs-class .hljs-title,
 .css .hljs-rules .hljs-attribute {
-  color: #f06431;
+  color: #dddd13;
 }
 
-/* Kimbie Green */
+/* shapeshifter Green */
 .hljs-string,
 .hljs-value,
 .hljs-inheritance,
 .hljs-header,
 .ruby .hljs-symbol,
 .xml .hljs-cdata {
-  color: #889b4a;
+  color: #0ed839;
 }
 
-/* Kimbie Aqua */
+/* shapeshifter Aqua */
 .css .hljs-hexcolor {
-  color: #18401e;
+  color:: #23edda;
 }
 
-/* Kimbie Blue */
+/* shapeshifter Blue */
 .hljs-function,
 .python .hljs-decorator,
 .python .hljs-title,
@@ -70,19 +70,19 @@
 .perl .hljs-sub,
 .javascript .hljs-title,
 .coffeescript .hljs-title {
-  color: #8ab1b0;
+  color: #3b48e3;
 }
 
-/* Kimbie Purple */
+/* shapeshifter Purple */
 .hljs-keyword,
 .javascript .hljs-function {
-  color: #98676a;
+  color: #f996e2;
 }
 
 .hljs {
   display: block;
-  background: #fbebd4;
-  color: #84613d;
+  background: #000000;
+  color: #ababab;
   padding: 0.5em;
 }
 

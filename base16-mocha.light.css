@@ -3,55 +3,95 @@
     Name:       Base16 Mocha Light
     Author:     Chris Kempson (http://chriskempson.com)
 
-    highlight.js template by Jan T. Sott (https://github.com/idleberg/base16-highlight.js)
+    highlight.js v8.0 template by Jan T. Sott (https://github.com/idleberg/base16-highlight.js)
     Original Base16 color scheme by Chris Kempson (https://github.com/chriskempson/base16)
 
 */
-.base16-mocha-light-comment, pre .comment, pre .title {
+
+/* Mocha Comment */
+.hljs-comment,
+.hljs-title {
   color: #7e705a;
 }
 
-.base16-mocha-light-red, pre .variable, pre .attribute, pre .tag, pre .regexp, pre .ruby .constant, pre .xml .tag .title, pre .xml .pi, pre .xml .doctype, pre .html .doctype, pre .css .id, pre .css .class, pre .css .pseudo {
+/* Mocha Red */
+.hljs-variable,
+.hljs-attribute,
+.hljs-tag,
+.hljs-regexp,
+.ruby .hljs-constant,
+.xml .hljs-tag .hljs-title,
+.xml .hljs-pi,
+.xml .hljs-doctype,
+.html .hljs-doctype,
+.css .hljs-id,
+.css .hljs-class,
+.css .hljs-pseudo {
   color: #cb6077;
 }
 
-.base16-mocha-light-orange, pre .number, pre .preprocessor, pre .built_in, pre .literal, pre .params, pre .constant {
+/* Mocha Orange */
+.hljs-number,
+.hljs-preprocessor,
+.hljs-built_in,
+.hljs-literal,
+.hljs-params,
+.hljs-constant {
   color: #d28b71;
 }
 
-.base16-mocha-light-yellow, pre .ruby .class .title, pre .css .rules .attribute {
+/* Mocha Yellow */
+.ruby .hljs-class .hljs-title,
+.css .hljs-rules .hljs-attribute {
   color: #f4bc87;
 }
 
-.base16-mocha-light-green, pre .string, pre .value, pre .inheritance, pre .header, pre .ruby .symbol, pre .xml .cdata {
+/* Mocha Green */
+.hljs-string,
+.hljs-value,
+.hljs-inheritance,
+.hljs-header,
+.ruby .hljs-symbol,
+.xml .hljs-cdata {
   color: #beb55b;
 }
 
-.base16-mocha-light-aqua, pre .css .hexcolor {
+/* Mocha Aqua */
+.css .hljs-hexcolor {
   color: #7bbda4;
 }
 
-.base16-mocha-light-blue, pre .function, pre .python .decorator, pre .python .title, pre .ruby .function .title, pre .ruby .title .keyword, pre .perl .sub, pre .javascript .title, pre .coffeescript .title {
+/* Mocha Blue */
+.hljs-function,
+.python .hljs-decorator,
+.python .hljs-title,
+.ruby .hljs-function .hljs-title,
+.ruby .hljs-title .hljs-keyword,
+.perl .hljs-sub,
+.javascript .hljs-title,
+.coffeescript .hljs-title {
   color: #8ab3b5;
 }
 
-.base16-mocha-light-purple, pre .keyword, pre .javascript .function {
+/* Mocha Purple */
+.hljs-keyword,
+.javascript .hljs-function {
   color: #a89bb9;
 }
 
-pre code {
+.hljs {
   display: block;
   background: #f5eeeb;
   color: #645240;
   padding: 0.5em;
 }
 
-pre .coffeescript .javascript,
-pre .javascript .xml,
-pre .tex .formula,
-pre .xml .javascript,
-pre .xml .vbscript,
-pre .xml .css,
-pre .xml .cdata {
+.coffeescript .javascript,
+.javascript .xml,
+.tex .hljs-formula,
+.xml .javascript,
+.xml .vbscript,
+.xml .css,
+.xml .hljs-cdata {
   opacity: 0.5;
 }

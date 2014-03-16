@@ -1,20 +1,20 @@
 /*
 
-    Name:       Base16 Kimbie Light
-    Author:     Jan T. Sott
+    Name:       Base16 Grayscale Light
+    Author:     Alexandre Gavioli (https://github.com/Alexx2/)
 
     highlight.js v8.0 template by Jan T. Sott (https://github.com/idleberg/base16-highlight.js)
     Original Base16 color scheme by Chris Kempson (https://github.com/chriskempson/base16)
 
 */
 
-/* Kimbie Comment */
+/* Grayscale Comment */
 .hljs-comment,
 .hljs-title {
-  color: #a57a4c;
+  color: #525252;
 }
 
-/* Kimbie Red */
+/* Grayscale Red */
 .hljs-variable,
 .hljs-attribute,
 .hljs-tag,
@@ -27,41 +27,41 @@
 .css .hljs-id,
 .css .hljs-class,
 .css .hljs-pseudo {
-  color: #dc3958;
+  color: #7c7c7c;
 }
 
-/* Kimbie Orange */
+/* Grayscale Orange */
 .hljs-number,
 .hljs-preprocessor,
 .hljs-built_in,
 .hljs-literal,
 .hljs-params,
 .hljs-constant {
-  color: #f79a32;
+  color: #999999;
 }
 
-/* Kimbie Yellow */
+/* Grayscale Yellow */
 .ruby .hljs-class .hljs-title,
 .css .hljs-rules .hljs-attribute {
-  color: #f06431;
+  color: #a0a0a0;
 }
 
-/* Kimbie Green */
+/* Grayscale Green */
 .hljs-string,
 .hljs-value,
 .hljs-inheritance,
 .hljs-header,
 .ruby .hljs-symbol,
 .xml .hljs-cdata {
-  color: #889b4a;
+  color: #8e8e8e;
 }
 
-/* Kimbie Aqua */
+/* Grayscale Aqua */
 .css .hljs-hexcolor {
-  color: #18401e;
+  color: #868686;
 }
 
-/* Kimbie Blue */
+/* Grayscale Blue */
 .hljs-function,
 .python .hljs-decorator,
 .python .hljs-title,
@@ -70,19 +70,19 @@
 .perl .hljs-sub,
 .javascript .hljs-title,
 .coffeescript .hljs-title {
-  color: #8ab1b0;
+  color: #686868;
 }
 
-/* Kimbie Purple */
+/* Grayscale Purple */
 .hljs-keyword,
 .javascript .hljs-function {
-  color: #98676a;
+  color: #747474;
 }
 
 .hljs {
   display: block;
-  background: #fbebd4;
-  color: #84613d;
+  background: #f7f7f7;
+  color: #464646;
   padding: 0.5em;
 }
 

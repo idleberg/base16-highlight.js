@@ -1,6 +1,6 @@
 /*
 
-    Name:       Base16 Kimbie Light
+    Name:       Base16 Isotope Dark
     Author:     Jan T. Sott
 
     highlight.js v8.0 template by Jan T. Sott (https://github.com/idleberg/base16-highlight.js)
@@ -8,13 +8,13 @@
 
 */
 
-/* Kimbie Comment */
+/* Isotope Comment */
 .hljs-comment,
 .hljs-title {
-  color: #a57a4c;
+  color: #c0c0c0;
 }
 
-/* Kimbie Red */
+/* Isotope Red */
 .hljs-variable,
 .hljs-attribute,
 .hljs-tag,
@@ -27,41 +27,41 @@
 .css .hljs-id,
 .css .hljs-class,
 .css .hljs-pseudo {
-  color: #dc3958;
+  color: #ff0000;
 }
 
-/* Kimbie Orange */
+/* Isotope Orange */
 .hljs-number,
 .hljs-preprocessor,
 .hljs-built_in,
 .hljs-literal,
 .hljs-params,
 .hljs-constant {
-  color: #f79a32;
+  color: #ff9900;
 }
 
-/* Kimbie Yellow */
+/* Isotope Yellow */
 .ruby .hljs-class .hljs-title,
 .css .hljs-rules .hljs-attribute {
-  color: #f06431;
+  color: #ff0099;
 }
 
-/* Kimbie Green */
+/* Isotope Green */
 .hljs-string,
 .hljs-value,
 .hljs-inheritance,
 .hljs-header,
 .ruby .hljs-symbol,
 .xml .hljs-cdata {
-  color: #889b4a;
+  color: #33ff00;
 }
 
-/* Kimbie Aqua */
+/* Isotope Aqua */
 .css .hljs-hexcolor {
-  color: #18401e;
+  color:: #00ffff;
 }
 
-/* Kimbie Blue */
+/* Isotope Blue */
 .hljs-function,
 .python .hljs-decorator,
 .python .hljs-title,
@@ -70,19 +70,19 @@
 .perl .hljs-sub,
 .javascript .hljs-title,
 .coffeescript .hljs-title {
-  color: #8ab1b0;
+  color: #0066ff;
 }
 
-/* Kimbie Purple */
+/* Isotope Purple */
 .hljs-keyword,
 .javascript .hljs-function {
-  color: #98676a;
+  color: #cc00ff;
 }
 
 .hljs {
   display: block;
-  background: #fbebd4;
-  color: #84613d;
+  background: #000000;
+  color: #d0d0d0;
   padding: 0.5em;
 }
 

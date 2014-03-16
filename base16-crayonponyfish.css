@@ -1,6 +1,6 @@
 /*
 
-    Name:       Base16 Kimbie Light
+    Name:       Base16 Zissou: Crayon Pony Fish Dark
     Author:     Jan T. Sott
 
     highlight.js v8.0 template by Jan T. Sott (https://github.com/idleberg/base16-highlight.js)
@@ -8,13 +8,13 @@
 
 */
 
-/* Kimbie Comment */
+/* Zissou: Crayon Pony Fish Comment */
 .hljs-comment,
 .hljs-title {
-  color: #a57a4c;
+  color: #655055;
 }
 
-/* Kimbie Red */
+/* Zissou: Crayon Pony Fish Red */
 .hljs-variable,
 .hljs-attribute,
 .hljs-tag,
@@ -27,41 +27,41 @@
 .css .hljs-id,
 .css .hljs-class,
 .css .hljs-pseudo {
-  color: #dc3958;
+  color: #a40e38;
 }
 
-/* Kimbie Orange */
+/* Zissou: Crayon Pony Fish Orange */
 .hljs-number,
 .hljs-preprocessor,
 .hljs-built_in,
 .hljs-literal,
 .hljs-params,
 .hljs-constant {
-  color: #f79a32;
+  color: #bb4423;
 }
 
-/* Kimbie Yellow */
+/* Zissou: Crayon Pony Fish Yellow */
 .ruby .hljs-class .hljs-title,
 .css .hljs-rules .hljs-attribute {
-  color: #f06431;
+  color: #d44d26;
 }
 
-/* Kimbie Green */
+/* Zissou: Crayon Pony Fish Green */
 .hljs-string,
 .hljs-value,
 .hljs-inheritance,
 .hljs-header,
 .ruby .hljs-symbol,
 .xml .hljs-cdata {
-  color: #889b4a;
+  color: #68a312;
 }
 
-/* Kimbie Aqua */
+/* Zissou: Crayon Pony Fish Aqua */
 .css .hljs-hexcolor {
-  color: #18401e;
+  color:: #bea6ad;
 }
 
-/* Kimbie Blue */
+/* Zissou: Crayon Pony Fish Blue */
 .hljs-function,
 .python .hljs-decorator,
 .python .hljs-title,
@@ -70,19 +70,19 @@
 .perl .hljs-sub,
 .javascript .hljs-title,
 .coffeescript .hljs-title {
-  color: #8ab1b0;
+  color: #eeb679;
 }
 
-/* Kimbie Purple */
+/* Zissou: Crayon Pony Fish Purple */
 .hljs-keyword,
 .javascript .hljs-function {
-  color: #98676a;
+  color: #7d4163;
 }
 
 .hljs {
   display: block;
-  background: #fbebd4;
-  color: #84613d;
+  background: #1c0806;
+  color: #7c666d;
   padding: 0.5em;
 }
 
